@@ -15,7 +15,7 @@ Also, if you did not run `git init` yet, now is a good time to.
 
 # Level 0 - Display
 
-Look at `./src/layouts/GameInfo.js` and find a way for making its children render the informations from the state.
+Look at `./src/layouts/GameLayout.js` and find a way for making its children render the informations from the state.
 
 # Level 1 - Mouseover
 
@@ -42,6 +42,6 @@ _hint_: [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 # Bonii
 
-* Implement a small AI to play with,
-* Make the game use more rows and columns,
-* use your imagination.
+- Implement a small AI to play with,
+- Make the game use more rows and columns,
+- use your imagination.
